@@ -1,0 +1,26 @@
+{
+  "name": "making-http-requests-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "axios-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinogagliardi/making-http-requests-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valentinogagliardi/making-http-requests-node-js/issues"
+  },
+  "homepage": "https://github.com/valentinogagliardi/making-http-requests-node-js#readme",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "node-fetch": "^1.7.3",
+    "r2": "^2.0.0",
+    "request": "^2.83.0"
+  }
+}
